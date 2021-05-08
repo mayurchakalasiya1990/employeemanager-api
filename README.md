@@ -33,3 +33,27 @@ http://localhost:8080/employee/delete/{id}
 Endpoints: To validate user and generate JWT token for client request
 
 http://localhost:8080/employee/employeeAuth/token
+
+UI of Client Side Application :
+
+Login Page :
+![image](https://user-images.githubusercontent.com/32035137/117537886-52883680-b021-11eb-9ad6-8845fad6bdbd.png)
+
+Dashboard:
+
+![image](https://user-images.githubusercontent.com/32035137/117537945-93804b00-b021-11eb-841b-7a0d69081990.png)
+
+Add Employee:
+
+![image](https://user-images.githubusercontent.com/32035137/117537970-b0b51980-b021-11eb-9f43-2be5275fa4b2.png)
+
+Edit Employee Detaits: 
+
+![image](https://user-images.githubusercontent.com/32035137/117538012-ce827e80-b021-11eb-92aa-6d7aaa0eff9f.png)
+
+Delete Employee Details :
+
+![image](https://user-images.githubusercontent.com/32035137/117538040-eb1eb680-b021-11eb-8bf4-e526172defc7.png)
+
+
+
