@@ -2,7 +2,6 @@
 
 It is Spring-boot Application which is created using Intellij IDE. 
 
-This Project is developed to 
 
 Features:
 1) Implement Application Security using Spring Security.
